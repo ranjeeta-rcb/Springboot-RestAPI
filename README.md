@@ -2,8 +2,8 @@
 Spring boot rest api project 
 1. right click on the project
 2. run on spring boot app
-3. to chech the mapping and all
-4. go for the post man in collections
+3. to check the mapping and all
+4. go for the postman in collections
 5. to get employees - select get method,  localhost/api/v1/employees
 6. to post employees select post method , localhost/api/v1/employees go to body select raw ang write the commands in json format   {
         "department": "ECE",
